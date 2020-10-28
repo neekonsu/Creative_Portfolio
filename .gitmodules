@@ -1,0 +1,33 @@
+[submodule "https:/github.com/neekonsu/QuickScanAdmin"]
+	path = https:/github.com/neekonsu/QuickScanAdmin
+	url = https://github.com/neekonsu/QuickScan
+[submodule "QuickScan"]
+	path = QuickScan
+	url = https://github.com/neekonsu/QuickScan
+[submodule "QuickScanAdmin"]
+	path = QuickScanAdmin
+	url = https://github.com/neekonsu/QuickScanAdmin
+[submodule "Lights"]
+	path = Lights
+	url = https://github.com/neekonsu/Lights
+[submodule "checkMate"]
+	path = checkMate
+	url = https://github.com/neekonsu/checkMate
+[submodule "dermaviz"]
+	path = dermaviz
+	url = https://github.com/neekonsu/dermaviz
+[submodule "Bismarck"]
+	path = Bismarck
+	url = https://github.com/neekonsu/Bismarck
+[submodule "ChromHMM"]
+	path = ChromHMM
+	url = https://github.com/neekonsu/ChromHMM
+[submodule "ChromHMM_Pipeline"]
+	path = ChromHMM_Pipeline
+	url = https://github.com/neekonsu/ChromHMM_Pipeline
+[submodule "IHEC"]
+	path = IHEC
+	url = https://github.com/neekonsu/IHEC
+[submodule "alphabet"]
+	path = alphabet
+	url = https://github.com/neekonsu/alphabet
